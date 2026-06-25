@@ -36,6 +36,4 @@ The platform allows users to generate intelligent recipes based on ingredients u
 - Google Gemini API
 - Arcjet Security
 
----
 
-## 📁 Project Structure
